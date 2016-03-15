@@ -1,6 +1,8 @@
 # TTDSaver
 
-aDe's TTD Saver - (official) version 1.1 / 2003-01-08 www.ade.se
+This is the Visual Basic 6 source for my TTD screen saver I made way back. All the relevant files I could find are included in this repository. The original readme follows below.
+
+aDe's TTD Saver - version 1.1 / 2003-01-08
 ------------------------------------------------------------------------------------
 
 Hello and thanks for downloading my TTD screensaver. It features a random flat piece of land, with random 
