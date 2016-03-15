@@ -1,0 +1,13 @@
+Lev3:Pegasus engine, wagons to Passengers/Mail/Goods/Valuables and tracks to monorail 
+by Prof. Frink
+
+[general]
+<version>1</version>
+[/general]
+[imagecounts]
+<buildings_big.bmp>8</buildings_big.bmp>
+<buildings_med.bmp>16</buildings_med.bmp>
+[/imagecounts]
+[engine0]
+<double>0</double>
+[/engine0]
