@@ -1,6 +1,8 @@
 # TTDSaver
 
-This is the Visual Basic 6 source for my TTD screen saver I made way back. All the relevant files I could find are included in this repository. The original readme follows below.
+This is the Visual Basic 6 source for my TTD screen saver I made way back. All the relevant files I could find are included in this repository. 
+A demo video is available here: https://www.youtube.com/watch?v=P7_RdSUCn4M
+The original readme follows below.
 
 aDe's TTD Saver - version 1.1 / 2003-01-08
 ------------------------------------------------------------------------------------
